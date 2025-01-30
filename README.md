@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Arthur e sou desenvolvedor javascript, de São Paulo, Brasil.</p>
+<p align="left">Meu nome é Arthur e sou desenvolvedor web, de São Paulo, Brasil.</p>
 
 ###
 
